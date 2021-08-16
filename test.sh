@@ -1,5 +1,5 @@
 # 代码生成的工作目录，也就是我们的项目路径
-ROOT_PACKAGE="github.com/zouchunxu/mycrd"
+ROOT_PACKAGE="github.com/zouchunxu/mycrdn"
 # API Group
 CUSTOM_RESOURCE_NAME="samplecrd"
 # API Version
