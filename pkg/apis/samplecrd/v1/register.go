@@ -5,7 +5,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/zouchunxu/mycrd/pkg/apis/samplecrd"
+	"github.com/zouchunxu/mycrdn/pkg/apis/samplecrd"
 )
 
 // GroupVersion is the identifier for the API which includes
